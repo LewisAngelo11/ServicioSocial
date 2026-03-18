@@ -1,0 +1,26 @@
+{
+  "salaid": "12591",
+  "userid": "2",
+  "username": "Javier",
+  "participanteid": "5",
+  "calificacion": 1,
+  "tituloform": "Prueba de cuestionario",
+  "questions": [
+    {
+      "numero": 1,
+      "tipo": "quiz",
+      "question": "Pregunta de pureba",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "tiempo": 18,
+      "retroalimentacion": "si",
+      "valor": "un-punto",
+      "electionindex": 1
+    }
+  ]
+}

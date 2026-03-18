@@ -1,5 +1,5 @@
 import React, { forwardRef } from "react";
-import "./componentecarga.css";
+import "./ComponenteCarga.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const ComponenteCarga = forwardRef(({ tituloAMostrar }, ref) => {

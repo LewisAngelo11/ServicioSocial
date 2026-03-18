@@ -1,0 +1,26 @@
+{
+  "salaid": "97826",
+  "userid": "2",
+  "username": "Ruben",
+  "participanteid": "1",
+  "calificacion": 1,
+  "tituloform": "El descubrimiento de america",
+  "questions": [
+    {
+      "numero": 1,
+      "tipo": "quiz",
+      "question": "Quien descubrió america?",
+      "options": [
+        "Cristobal",
+        "Jose jose",
+        "Mario Bros",
+        "Luigi"
+      ],
+      "correctAnswerIndex": 0,
+      "tiempo": 6,
+      "retroalimentacion": "si",
+      "valor": "un-punto",
+      "electionindex": 0
+    }
+  ]
+}

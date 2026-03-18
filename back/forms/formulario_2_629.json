@@ -1,0 +1,23 @@
+{
+  "salaid": "12591",
+  "userId": "2",
+  "username": "Manuel",
+  "tituloform": "Prueba de cuestionario",
+  "questions": [
+    {
+      "numero": 1,
+      "tipo": "quiz",
+      "question": "Pregunta de pureba",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "tiempo": 30,
+      "retroalimentacion": "si",
+      "valor": "un-punto"
+    }
+  ]
+}
