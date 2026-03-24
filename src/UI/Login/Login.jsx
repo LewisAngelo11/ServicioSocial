@@ -60,7 +60,7 @@ function Login() {
   }
 
   const guardarDatos = (userData) => {
-    console.log(userData)
+    // console.log(userData)
     localStorage.setItem('isLoggedIn', 'true');
     localStorage.setItem('iduser', userData.id);
     localStorage.setItem('username', userData.username);
