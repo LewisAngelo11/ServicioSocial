@@ -65,7 +65,6 @@ function Login() {
     localStorage.setItem('iduser', userData.id);
     localStorage.setItem('username', userData.username);
     localStorage.setItem('correo', userData.correo);
-    localStorage.setItem('password', userData.password);
     localStorage.setItem('tipousuario', userData.tipousuario);
 
     if(userData.tipousuario == 1){
